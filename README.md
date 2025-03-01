@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aisha Maniya</h1>
-<h3 align="center">🚀 Web Designer & Developer | UI/UX Enthusiast | E-Commerce Solutions Expert</h3>
+<h3 align="center">🚀 Web Designer & Developer Expert</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aishamaniya21&label=Profile%20views&color=0e75b6&style=flat" alt="aishamaniya21" /> </p>
 
